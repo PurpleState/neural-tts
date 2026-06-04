@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+*.pth
+*.pt
+*.ckpt
+
+# Audio Outputs
+*.wav
+*.mp3
+
+# macOS
+.DS_Store
